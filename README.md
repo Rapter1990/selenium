@@ -1,6 +1,6 @@
 # Spring Boot Selenium with Github
 
-<img src="screenshots/spring_boot_selenium_github.png" alt="Main Information" width="600" height="400">
+<img src="screenshots/spring_boot_selenium_github.png" alt="Main Information" width="800" height="400">
 
 ## Description
 <ul style="list-style-type:disc">
